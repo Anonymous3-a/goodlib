@@ -1,2 +1,2 @@
 # goodlib
-Some librarys I've made
+Some libraries I've made
