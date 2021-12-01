@@ -1,4 +1,4 @@
-function getQueryVariable(variable) { 
+function getQueryVariable(variable) { // I forgot where I got this code so if anyone knows please tell me
   var query = window.location.search.substring(1); 
   var vars = query.split("&"); 
   for (var i=0;i<vars.length;i++) { 
