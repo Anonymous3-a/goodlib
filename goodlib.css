@@ -10,3 +10,7 @@
 .crisp {
     image-rendering: crisp-edges;
 }
+
+.fineprint {
+    font-size: 50%;
+}
