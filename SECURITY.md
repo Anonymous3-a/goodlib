@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Just report them in issues I usually will probably find it or maybe a pull request I'm still not too familier with the system GitHub uses
+Just report them in issues, if you can fix it submit a pull request
