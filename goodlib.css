@@ -23,3 +23,8 @@
     transform: translate(0, -100%);
   }
 }
+
+.dark-mode {
+    background-color: #000;
+    color: #FFF;
+}
