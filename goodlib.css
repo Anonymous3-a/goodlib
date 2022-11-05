@@ -24,7 +24,12 @@
   }
 }
 
-.dark-mode {
+.oled-mode {
     background-color: #000;
+    color: #FFF;
+}
+
+.dark-mode {
+    background-color: #222;
     color: #FFF;
 }
