@@ -1,35 +1,35 @@
 @keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
 }
 
 .crisp {
-    image-rendering: crisp-edges;
+	image-rendering: crisp-edges;
 }
 
 .fineprint {
-    font-size: 50%;
+	font-size: 50%;
 }
 
 @keyframes marquee {
-  0% {
-    transform: translate(0, 0);
-  }
-  100% {
-    transform: translate(0, -100%);
-  }
+	0% {
+		transform: translate(0, 0);
+	}
+	100% {
+		transform: translate(0, -100%);
+	}
 }
 
 .oled-mode {
-    background-color: #000;
-    color: #FFF;
+	background-color: #000;
+	color: #FFF;
 }
 
 .dark-mode {
-    background-color: #222;
-    color: #FFF;
+	background-color: #222;
+	color: #FFF;
 }
