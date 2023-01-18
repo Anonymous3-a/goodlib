@@ -41,3 +41,9 @@
 	padding: 3px;
 	margin: 0px;
 }
+
+
+.center {
+	display: flex;
+	justify-content: center;
+}
